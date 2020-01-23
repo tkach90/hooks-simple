@@ -1,22 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af5f4685-e9f8-4abf-9e71-1330349e0a1e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ResourceList.js" afterDir="false" />
+    <list default="true" id="af5f4685-e9f8-4abf-9e71-1330349e0a1e" name="Default Changelist" comment="create hook-simple App, made server request via useEffect">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ResourceList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ResourceList.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,11 +76,37 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579770224536</updated>
-      <workItem from="1579770226332" duration="8473000" />
+      <workItem from="1579770226332" duration="9752000" />
     </task>
+    <task id="LOCAL-00001" summary="create hook-simple App, made server request via useEffect">
+      <created>1579789919048</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579789919048</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="create hook-simple App, made server request via useEffect" />
+    <option name="LAST_COMMIT_MESSAGE" value="create hook-simple App, made server request via useEffect" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="823" y="0" key="CommitChangelistDialog2" timestamp="1579790118278">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="823" y="0" key="CommitChangelistDialog2/0.0.1707.920@0.0.1707.920" timestamp="1579790118278" />
+    <state x="884" y="195" width="517" height="371" key="Github.ShareDialog" timestamp="1579790099520">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="884" y="195" width="517" height="371" key="Github.ShareDialog/0.0.1707.920@0.0.1707.920" timestamp="1579790099520" />
+    <state x="859" y="180" key="Vcs.Push.Dialog.v2" timestamp="1579790120766">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="859" y="180" key="Vcs.Push.Dialog.v2/0.0.1707.920@0.0.1707.920" timestamp="1579790120766" />
   </component>
 </project>
